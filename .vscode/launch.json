@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MoneymanagerApplication<moneymanager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "in.bushansirgur.moneymanager.MoneymanagerApplication",
+            "projectName": "moneymanager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
