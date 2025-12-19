@@ -99,8 +99,6 @@ docker run -p 8080:8080 money-manager
 📌 Use Cases
 Personal finance & expense tracking
 
-Resume-worthy backend project
-
 Base for SaaS finance applications
 
 Real-world Spring Boot + JWT reference
