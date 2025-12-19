@@ -1,3 +1,5 @@
+<img width="1872" height="908" alt="image" src="https://github.com/user-attachments/assets/66f6f3f5-d173-4b71-ba00-5c3277bcd742" />
+
 # 💰 Money Manager – Backend
 
 A secure, scalable **Money Management REST API** built with **Spring Boot**, designed to manage incomes, expenses, and categories with **JWT-based authentication**.  
